@@ -1,5 +1,8 @@
 # Number Formatter
 
+[![Build Status](https://travis-ci.org/Processoriented/number-formatter.svg?branch=master)](https://travis-ci.org/Processoriented/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/Processoriented/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/Processoriented/number-formatter?branch=master)
+
 A small library that adds commas to numbers
 
 ## Installation
